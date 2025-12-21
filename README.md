@@ -28,7 +28,7 @@ Unlike traditional vault shares that just sit idle, ctASSETs are **programmable,
 
 ---
 
-## 4️⃣ Use Cases for ctASSET
+## Use Cases for ctASSET
 ctASSETs are designed to **move and interact**. Some key use cases:
 
 - **Hold and earn yield** – your vault position keeps compounding automatically  
@@ -41,7 +41,7 @@ ctASSETs are designed to **move and interact**. Some key use cases:
 
 ---
 
-## 5️⃣ ctASSETs and One-Click DeFi
+## ctASSETs and One-Click DeFi
 Concrete designed ctASSETs for **simplicity and efficiency**:
 
 - **One deposit → one ctASSET**  
@@ -53,7 +53,7 @@ Concrete designed ctASSETs for **simplicity and efficiency**:
 
 ---
 
-## 6️⃣ Getting Started
+## Getting Started
 Start earning and using ctASSETs today by depositing into Concrete vaults:  
 [https://app.concrete.xyz/earn](https://app.concrete.xyz/earn)
 
